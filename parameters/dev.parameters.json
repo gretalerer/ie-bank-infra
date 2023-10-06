@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "gretal-dbsrv-dev" 
+            "value": "glerer-dbsrv-dev" 
         },
         "postgreSQLDatabaseName": {
-            "value": "gretal-db-dev" 
+            "value": "glerer-db-dev" 
         },
         "appServicePlanName": {
-            "value": "gretal-asp-dev" 
+            "value": "glerer-asp-dev" 
         },
         "appServiceAPIAppName": {
-            "value": "gretal-be-dev" 
+            "value": "glerer-be-dev" 
         },
         "appServiceAppName": {
-            "value": "gretal-fe-dev" 
+            "value": "glerer-fe-dev" 
         },
         "location": {
             "value": "japanwest"
