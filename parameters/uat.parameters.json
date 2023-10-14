@@ -6,19 +6,19 @@
             "value": "prod"
         },
         "postgreSQLServerName": {
-            "value": "glerer-dbsrv-uat" 
+            "value": "gretal-dbsrv-uat" 
         },
         "postgreSQLDatabaseName": {
-            "value": "glerer-db-uat" 
+            "value": "gretal-db-uat" 
         },
         "appServicePlanName": {
-            "value": "glerer-asp-uat" 
+            "value": "gretal-asp-uat" 
         },
         "appServiceAPIAppName": {
-            "value": "glerer-be-uat" 
+            "value": "gretal-be-uat" 
         },
         "appServiceAppName": {
-            "value": "glerer-fe-uat" 
+            "value": "gretal-fe-uat" 
         },
         "location": {
             "value": "southafricanorth"
