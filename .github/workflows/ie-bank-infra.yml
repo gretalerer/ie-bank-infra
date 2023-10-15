@@ -47,8 +47,8 @@ jobs:
       name: 'User Acceptance Testing'
     env: 
       ENV: UAT
-      DBHOST: glerer-dbsrv-uat.postgres.database.azure.com
-      DBNAME: glerer-db-uat
+      DBHOST: gretal-dbsrv-uat.postgres.database.azure.com
+      DBNAME: gretal-db-uat
       FLASK_APP: app.py
       FLASK_DEBUG: 1
       
